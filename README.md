@@ -4,7 +4,7 @@
 The goal of this project is to analyze time series data to uncover underlying patterns, such as trends and seasonality, and to make accurate predictions for future values. This project demonstrates how to approach forecasting tasks, which are essential in fields like finance, sales, and resource planning.
 
 ## 2. Data Sources
-- **Dataset**: The time series data used in this project comes from [[specify source, e.g., Kaggle, public database, etc.]](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview).
+- **Dataset**: The time series data used in this project comes from [[Kaggle]](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview).
 - **Data Structure**: The dataset contains 913000 records with variables representing stores, their sales, item being sold.
 - **Data Challenges**: Issues like missing values and potential anomalies were addressed during preprocessing to ensure the data’s reliability for modeling.
 
